@@ -25,8 +25,8 @@ This Python project is a **ToDo List Notifier** that helps you manage and notify
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/CHINMAYJAI/Database-Projects.git
+   cd Database-Projects
 
 ```
 2. Install the required libraries:
