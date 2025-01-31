@@ -23,31 +23,11 @@ The MongoDB-Projects repository contains a collection of projects focused on Mon
 
 ### Task Reminder System
 
-- **Description:** A system to manage and remind users of their tasks using MongoDB.
-- **Features:**
-  - Create, read, update, and delete tasks.
-  - Set reminders for tasks.
-  - Notify users of upcoming tasks.
 - **[Link to Project](https://github.com/CHINMAYJAI/Database-Projects/tree/main/mongodb-project/task_remainder)**
 
 ### Contact Book System
 
-#### Version 1
-
-- **Description:** The first version of the Contact Book System using MongoDB.
-- **Features:**
-  - Add, view, update, and delete contacts.
-  - Search for contacts by name or other attributes.
 - **[Link to Project](https://github.com/CHINMAYJAI/Database-Projects/tree/main/mongodb-project/contact_book)**
-
-#### Version 2
-
-- **Description:** The second version of the Contact Book System with enhanced features.
-- **Features:**
-  - Improved user interface.
-  - Additional contact management features.
-  - Enhanced search capabilities.
-- **[Link to Project](https://github.com/CHINMAYJAI/Database-Projects/tree/main/mongodb-projects/contact_book_system/v2)**
 
 ## Installation
 
