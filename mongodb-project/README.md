@@ -28,7 +28,7 @@ The MongoDB-Projects repository contains a collection of projects focused on Mon
   - Create, read, update, and delete tasks.
   - Set reminders for tasks.
   - Notify users of upcoming tasks.
-- **[Link to Project](https://github.com/CHINMAYJAI/Database-Projects/tree/main/mongodb-projects/task_reminder_system)**
+- **[Link to Project](https://github.com/CHINMAYJAI/Database-Projects/tree/main/mongodb-project/task_remainder)**
 
 ### Contact Book System
 
@@ -38,7 +38,7 @@ The MongoDB-Projects repository contains a collection of projects focused on Mon
 - **Features:**
   - Add, view, update, and delete contacts.
   - Search for contacts by name or other attributes.
-- **[Link to Project](https://github.com/CHINMAYJAI/Database-Projects/tree/main/mongodb-projects/contact_book_system/v1)**
+- **[Link to Project](https://github.com/CHINMAYJAI/Database-Projects/tree/main/mongodb-project/contact_book)**
 
 #### Version 2
 
