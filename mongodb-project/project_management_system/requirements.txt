@@ -1,0 +1,9 @@
+# These are the requirements to use this tool
+# Import these modules using command as follows: 
+# ---------------advise-------------------------
+# use virtual enviroment
+# ---------------commands-----------------------
+# pip install pymongo
+# pip install prettytable
+pymongo
+prettytable
