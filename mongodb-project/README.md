@@ -29,6 +29,9 @@ The MongoDB-Projects repository contains a collection of projects focused on Mon
 
 - **[Link to Project](https://github.com/CHINMAYJAI/Database-Projects/tree/main/mongodb-project/contact_book)**
 
+### Project Management System
+- **[Link to Project](https://github.com/CHINMAYJAI/Database-Projects/tree/main/mongodb-project/project_management_system)**
+
 ## Installation
 
 To get started with the projects, clone the repository:
