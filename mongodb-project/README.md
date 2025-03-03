@@ -10,6 +10,8 @@ Welcome to the MongoDB-Projects repository! This repository is a sub-repo inside
   - [Contact Book System](#contact-book-system)
     - [Version 1](#version-1)
     - [Version 2](#version-2)
+  - [Project Management System](#project-management-system)
+  - [Faulty Cashback System](#faulty-cashback-system)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -17,7 +19,7 @@ Welcome to the MongoDB-Projects repository! This repository is a sub-repo inside
 
 ## Overview
 
-The MongoDB-Projects repository contains a collection of projects focused on MongoDB. Currently, it includes a Task Reminder System and a Contact Book System (Version 1 and Version 2). These projects demonstrate the use of MongoDB for various applications.
+The MongoDB-Projects repository contains a collection of projects focused on MongoDB. Currently, it includes a Task Reminder System, Contact Book System (Version 1 and Version 2), Project Management System and Faulty Cashback System. These projects demonstrate the use of MongoDB for various applications.
 
 ## Projects
 
@@ -31,6 +33,9 @@ The MongoDB-Projects repository contains a collection of projects focused on Mon
 
 ### Project Management System
 - **[Link to Project](https://github.com/CHINMAYJAI/Database-Projects/tree/main/mongodb-project/project_management_system)**
+
+### Faulty Cashback System
+- **[Link to Project](https://github.com/CHINMAYJAI/Database-Projects/tree/main/mongodb-project/faulty_cashback_system)**
 
 ## Installation
 
