@@ -1,5 +1,3 @@
-# NOTE : Adding the new contact in mongodb
-
 from pymongo import MongoClient
 from bson import (
     ObjectId,
